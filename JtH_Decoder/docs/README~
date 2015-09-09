@@ -1,0 +1,14 @@
+README
+
+Not sure what to put here exactly, I've never written one before! Anyway, I used a combo of some python and a few html files so the text could be decoded in the browser and not on the command line.
+
+THAT said:
+
+The program DOES need to be booted from the command line (also not sure if this would work in Windows, I guess so? These instructions are for linux):
+
+    1) go to: ~$/Projects/
+    2) run: python bin/app.py
+    3) go to browser: localhost:8080/decoder
+    4) Enter your text!
+    
+Let me know if this makes sense! Thanks for the challenge! 

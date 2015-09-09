@@ -1,0 +1,8 @@
+<h1>Decode simple emails</h1>
+
+<form action="/decoder" method="POST">
+    Text to be decoded: <input type="text" name = "decodePP">
+    <br/>
+    <br/>
+    <input type="submit">
+</form>

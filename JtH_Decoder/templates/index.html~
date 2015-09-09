@@ -1,0 +1,15 @@
+$def with (true_text)
+
+$if true_text:
+    <em style="color: green; font-size: 1em;">Translated text:</em> <em style="color: blue; font-size: 3em;">$true_text</em>
+$else:
+    <em>Hello</em>, world!
+
+    
+<button onclick="goBack()">Go Back</button>
+
+<script>
+function goBack() {
+    window.history.back()
+}
+</script>

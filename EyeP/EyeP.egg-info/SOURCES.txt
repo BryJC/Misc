@@ -1,0 +1,9 @@
+setup.py
+EyeP.egg-info/PKG-INFO
+EyeP.egg-info/SOURCES.txt
+EyeP.egg-info/dependency_links.txt
+EyeP.egg-info/requires.txt
+EyeP.egg-info/top_level.txt
+IProj/__init__.py
+IProj/fibo.py
+bin/testscript.py
